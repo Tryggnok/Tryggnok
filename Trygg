@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html lang="no">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="theme-color" content="#123c35">
+
+<title>TRYGG – Din beredskap</title>
+
+<style>
+
+*{box-sizing:border-box}
+
+body{margin:0;background:#f3f5f0;color:#19352d;font-family:-apple-system,BlinkMacSystemFont,sans-serif}
+
+header{background:#123c35;color:white;padding:28px 22px 30px;border-radius:0 0 25px 25px}
+
+.logo{font-size:25px;font-weight:850;letter-spacing:3px}
+
+header p{color:#d4e7dc;line-height:1.5}
+
+main{padding:17px;max-width:650px;margin:auto}
+
+.card{background:white;border-radius:17px;padding:17px;margin:13px 0;box-shadow:0 3px 12px #123c3510}
+
+h2{font-size:19px;margin:0 0 12px}
+
+h3{font-size:15px;margin:0}
+
+.muted{color:#687a70;font-size:13px;line-height:1.5}
+
+.progress{height:9px;background:#e4ebe5;border-radius:20px;margin:12px 0}
+
+.bar{height:9px;background:#398563;border-radius:20px;width:0}
+
+.status{font-size:26px;font-weight:800;color:#245b45}
+
+.item{display:flex;gap:12px;padding:13px 0;border-bottom:1px solid #edf0ec;align-items:flex-start}
+
+.item:last-child{border:0}
+
+.item input{width:21px;height:21px;accent-co
